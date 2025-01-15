@@ -32,7 +32,7 @@ Bu layihə sadə bir Todo tətbiqi olaraq hazırlanıb. Tətbiq istifadəçilər
   - Adminlər bütün istifadəçilərin və todo-ların üzərində əməliyyatlar apara bilərlər.
 
 - **Docker ilə inteqrasiya**: 
-  - Layihə dockerize edilmişdir və `Dockerfile` və `docker-compose` vasitəsilə işə salma zamanı requirements.txt oxunmasında problem var . Həmin fayl open olmur install olunmur .
+  - Layihə dockerize edilmişdir və `Dockerfile` və `docker-compose` vasitəsilə işə salma zamanı requirements.txt oxunmasında problem var . Həmin fayl open olmur .
 
 - **Celery ilə Periodic Tasks**:
   - **Həftəlik silinmə**: Keçmiş tamamlanmamış todo-lar hər həftə silinir.
